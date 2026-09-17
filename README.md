@@ -1,6 +1,7 @@
 # CattyMod
 
-### ⚠️ This repository is no longer maintained. Please check out [cattymod/scratch-gui](https://github.com/cattymod/scratch-gui)
+### ⚠️ This repository is no longer maintained. Please check out [cattymod/scratch-gui](https://github.com/cattymod/scratch-gui).
+_Note: CattyMod Previous may be edited to fix bugs but no new features will be added._
 
 ---
 **CattyMod** is a cool, custom Scratch mod I made using the Scrooch 3 framework.  
